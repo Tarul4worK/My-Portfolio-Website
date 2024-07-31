@@ -24,7 +24,7 @@ This repository contains the source code for my personal portfolio website. The 
 To view the portfolio website, you can clone this repository and open the `index.html` file in your browser.
 
 ```sh
-git clone https://github.com/CodewithTarul/My-Portfolio-Website
+git clone https://github.com/Tarul4worK/My-Portfolio-Website
 cd My-Portfolio-Website
 open index.html
 ```
