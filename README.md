@@ -36,6 +36,7 @@ Feel free to explore the code, and if you have any suggestions or feedback, don'
 - **LinkedIn:** https://www.linkedin.com/in/barvetarul-s4w/
 
 Preview Img
-![image](https://github.com/user-attachments/assets/2dec8888-1abf-4a73-ad3a-b78529ab9ca7)
+![Main](https://github.com/user-attachments/assets/c28d8ac0-07ea-4207-80ee-9b8bdd48d6f4)
+
 
 
