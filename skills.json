@@ -1,25 +1,5 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -28,31 +8,57 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
+        "name": "C",
+        "icon": "https://img.icons8.com/color/48/c-programming.png"
+    },  
+    {
+        "name": "Core Java",
+        "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"
+    },
+    {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "TailwindCSS",
+        "icon": "https://img.icons8.com/fluency/48/tailwind_css.png"
+    },
+
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/nolan/47/express-js.png"
     },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
+
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/color/48/google-cloud.png"      
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Corel Draw",
+        "icon": "https://img.icons8.com/external-others-inmotus-design/48/external-Corel-Draw-applications-and-programs-others-inmotus-design.png"
     }
 ]
